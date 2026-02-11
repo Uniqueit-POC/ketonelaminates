@@ -1,0 +1,22 @@
+-------------------------------------------Get All Product --------------
+
+https://uniqueadmin.thehappyhomedecor.com/Api/getAllProduct.php
+
+***Notice ===>>> Ama Product Name Sivai ni je vasti ave ene ignor maravi
+
+
+--------------------------------------- Get Product Wise Images ----------------
+
+Pass the ProductId in last Example 16 
+
+
+https://uniqueadmin.thehappyhomedecor.com/Api/getProductWiseImages.php?ProductID=16
+
+Image name ni agad aa niche ni  lagadavi  
+
+https://uniqueadmin.thehappyhomedecor.com/Images/ 
+
+example =============>>> https://uniqueadmin.thehappyhomedecor.com/Images/Sofa1.jpeg
+
+
+***Notice ===>>> Ama Image Name Sivai ni je vasti ave ene ignor maravi
