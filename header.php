@@ -14,7 +14,7 @@ echo "<!-- ======= Header ======= -->
     margin-top: 24px;'></i>
   <nav id='navbar' style='color: #000 ;' class='navbar'>
     <ul>
-      <li  ><a style='color: #000 ;' href='https://arabic.ketonelaminates.com/'>Arabic - عربي</a></li>
+      <!-- <li  ><a style='color: #000 ;' href='https://arabic.ketonelaminates.com/'>Arabic - عربي</a></li> -->
       <li><a style='color: #000 ;' href='Home'>Home</a></li>
       <li><a style='color: #000 ;' href='About'>About</a></li>
       <li><a style='color: #000 ;' style='color: #000 ;' href='Technical'>Specifications</a></li>

@@ -1,24 +1,25 @@
-<?php 
+<?php
 error_reporting(0);
 date_default_timezone_set('Asia/Kolkata');
 include 'crossplatform.php';
 cors();
- class dbconnect 
-  { 
-  private $_localhost = 'localhost'; 
-  private $_user = 'root'; 
-  private $_password = ''; 
-  private $_dbname = 'ketonefinal'; 
+ class dbconnect
+  {
+  private $_localhost = '216.10.241.228';
+  private $_user = 'theunzkc_jay';
+  private $_password = 'Jay@1234567890';
+  private $_dbname = 'theunzkc_KetoneLaminates';
   protected $connection;
    public function __construct()
-   { 
-   if(!isset($this-> connection)) 
-   { 
+   {
+   if(!isset($this-> connection))
+   {
                
-               $this->connection = new mysqli($this->_localhost , $this->_user , $this->_password , $this->_dbname); 
+               $this->connection = new mysqli($this->_localhost , $this->_user , $this->_password , $this->_dbname);
    
    }
    return $this->connection;
-   } 
- } 
+   }
+ }
  ?>
+ 
